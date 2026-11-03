@@ -10,23 +10,23 @@ Aplicação React + Vite para a votação de eliminação de **A Fazenda 2026**.
 - **Votação**: Os 3 participantes da roça aparecem em destaque, em cartazes com borda vermelha e o selo **Na roça**, cada um com o botão **Votar para eliminar**. A cada voto, uma mensagem confirma em quem o usuário votou e quantas vezes já votou. Abaixo, a grade com os demais peões (fora da roça), sem botão de voto.
 - **Resultado**: Mostra o total de votos computados e o placar dos 3 participantes da roça, ordenado do mais votado para o menos votado, com barra de progresso, percentual e quantidade de votos. O mais votado recebe o selo **Sairia hoje**. Quando não há votos, uma mensagem convida o usuário a votar. O botão **Zerar votação** reinicia a contagem.
 
-| <img src="prints/01_home.png" alt="Home" width="1000"/> |
+| <img src="/VotacaoFazenda/ArquivosAuxiliares/prints/01_home.png" alt="Home" width="1000"/> |
 |:----------------------------------------------------:|
 |                        Home                          |
 
-| <img src="prints/03_votacao.png" alt="Votação" width="1000"/> |
+| <img src="/VotacaoFazenda/ArquivosAuxiliares/prints/03_votacao.png" alt="Votação" width="1000"/> |
 |:----------------------------------------------------:|
 |                       Votação                        |
 
-| <img src="prints/04_voto_registrado.png" alt="Voto registrado" width="1000"/> |
+| <img src="/VotacaoFazenda/ArquivosAuxiliares/prints/04_voto_registrado.png" alt="Voto registrado" width="1000"/> |
 |:----------------------------------------------------:|
 |                  Voto registrado                     |
 
-| <img src="prints/05_resultado.png" alt="Resultado" width="1000"/> |
+| <img src="/VotacaoFazenda/ArquivosAuxiliares/prints/05_resultado.png" alt="Resultado" width="1000"/> |
 |:----------------------------------------------------:|
 |                      Resultado                       |
 
-| <img src="prints/02_resultado_vazio.png" alt="Resultado sem votos" width="1000"/> |
+| <img src="/VotacaoFazenda/ArquivosAuxiliares/prints/02_resultado_vazio.png" alt="Resultado sem votos" width="1000"/> |
 |:----------------------------------------------------:|
 |                 Resultado sem votos                  |
 
